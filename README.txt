@@ -1,3 +1,3 @@
-Hello Git and GitHub
-testing
-Hello
+# Hello Git and GitHub
+## testing
+### Hello
